@@ -27,3 +27,4 @@
 ### 🧠 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/alvina_2005?theme=dark&font=Baloo_2&ext=contest)](https://leetcode.com/u/alvina_2005/)
+[![octocat's GitSkins profile skin](https://www.gitskins.com/api/premium-card?username=octocat&theme=satan&variant=persona)](https://www.gitskins.com/showcase/octocat?skin=inferno)
