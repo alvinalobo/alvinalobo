@@ -16,7 +16,9 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=alvinalobo&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=alvinalobo&theme=github-dark" alt="GitHub Stats" /></picture>
 </p>
 
-
+![GitSkins Glass Profile](https://www.gitskins.com/api/premium-card?username=alvinalobo&theme=satan&variant=glass&avatar=github)
+https://www.gitskins.com/api/premium-card?username=alvinalobo&theme=satan&variant=glass&avatar=github
+<img src="https://www.gitskins.com/api/premium-card?username=alvinalobo&theme=satan&variant=glass&avatar=github" alt="GitSkins Glass Profile" width="820" />
 
 ## 🤝 Connect With Me
 
