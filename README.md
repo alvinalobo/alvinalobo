@@ -22,11 +22,6 @@ https://www.gitskins.com/api/premium-card?username=alvinalobo&theme=satan&varian
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=alvinalobo&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=alvinalobo&theme=github-dark" alt="alvinalobo social links" /></picture>
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alvinalobo)
 
 ---
 
